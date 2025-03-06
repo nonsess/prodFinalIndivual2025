@@ -1,0 +1,27 @@
+.sideNav {
+    width: 200px;
+    background: white;
+    border-right: 1px solid rgba(0, 0, 0, 0.06);
+    height: calc(100vh - 64px);
+    position: fixed;
+    top: 64px;
+    left: 0;
+    display: block;
+}
+
+.menu {
+    padding-top: 24px;
+    border-right: none !important;
+}
+
+.menu :global(.ant-menu-item) {
+    height: 50px;
+    line-height: 50px;
+    margin: 4px 0;
+}
+
+@media (max-width: 768px) {
+    .sideNav {
+        display: none;
+    }
+} 

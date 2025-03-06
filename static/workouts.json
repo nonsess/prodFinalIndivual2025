@@ -1,0 +1,63 @@
+[
+    {
+        "id": 1,
+        "name": "Грудь + Ноги",
+        "description": "Комплексная тренировка на развитие силы груди и ног",
+        "exercises": [
+            {
+                "exerciseId": 1,
+                "target": 12
+            },
+            {
+                "exerciseId": 2,
+                "target": 12
+            },
+            {
+                "exerciseId": 3,
+                "target": 180
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Кардио + Спина",
+        "description": "Интенсивная тренировка для сжигания жира и укрепления спины",
+        "exercises": [
+            {
+                "exerciseId": 4,
+                "target": 300
+            },
+            {
+                "exerciseId": 5,
+                "target": 10
+            },
+            {
+                "exerciseId": 12,
+                "target": 15
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Силовая full-body",
+        "description": "Тренировка на все тело с акцентом на силовые упражнения",
+        "exercises": [
+            {
+                "exerciseId": 1,
+                "target": 10
+            },
+            {
+                "exerciseId": 5,
+                "target": 8
+            },
+            {
+                "exerciseId": 2,
+                "target": 10
+            },
+            {
+                "exerciseId": 11,
+                "target": 60
+            }
+        ]
+    }
+]

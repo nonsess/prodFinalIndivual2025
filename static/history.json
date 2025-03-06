@@ -1,0 +1,28 @@
+[
+    {
+        "workout": {
+            "id": 1,
+            "name": "Грудь + Ноги",
+            "description": "Комплексная тренировка на развитие силы груди и ног",
+            "exercises": [
+                {
+                    "exerciseId": 1,
+                    "target": 12
+                },
+                {
+                    "exerciseId": 2,
+                    "target": 12
+                },
+                {
+                    "exerciseId": 3,
+                    "target": 180
+                }
+            ]
+        },
+        "date": "2025-01-01",
+        "totalTime": 6600,
+        "totalReps": 10,
+        "skippedExercises": 0,
+        "earnedPoints": 100
+    }
+]

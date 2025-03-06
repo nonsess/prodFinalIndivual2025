@@ -1,0 +1,26 @@
+.filterContainer {
+    width: 100%;
+    margin: 0 auto;
+    padding: 16px;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.searchInput {
+    width: 100%;
+}
+
+.filterRow {
+    display: flex;
+}
+
+.filterSelect {
+    width: 100% !important;
+}
+
+@media (max-width: 576px) {
+    .filterRow {
+        flex-direction: column;
+    }
+} 

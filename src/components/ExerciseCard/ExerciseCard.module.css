@@ -1,0 +1,56 @@
+.cardContent {
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+}
+
+.infoRow {
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 8px;
+}
+
+.label {
+    flex: 0 0 auto;
+    margin-right: 8px;
+    font-weight: bold;
+}
+
+.value {
+    flex: 1 1 auto;
+    word-break: break-word;
+    overflow-wrap: break-word;
+    min-width: 0;
+}
+
+.wrapText {
+    white-space: normal;
+    word-break: break-word;
+    overflow-wrap: break-word;
+    hyphens: auto;
+}
+
+.tag {
+    margin-top: 8px;
+}
+
+.complexityTag {
+    border-radius: 4px;
+    padding: 2px 8px;
+    font-size: 12px;
+    font-weight: 500;
+}
+
+.complexityHigh {
+    background-color: #ff4d4f;
+    color: white;
+}
+
+.complexityMedium {
+    background-color: #faad14;
+    color: white;
+}
+
+.complexityLow {
+    background-color: #52c41a;
+    color: white;
+} 

@@ -1,0 +1,101 @@
+[
+    {
+        "id": 0,
+        "image": "/levels/level_0.jpg",
+        "name": "Утроб",
+        "description": "Вы только начинаете свой путь с Посейдоном. Впереди множество захватывающих открытий и приключений!",
+        "requiredCoins": 0,
+        "coefficient": 1,
+        "buttonText": "Начать приключение"
+    },
+    {
+        "id": 1,
+        "image": "/levels/level_1.jpg",
+        "name": "Младенец",
+        "description": "Родители Посейдона пропали без вести, но он не теряет надежды. Время действовать!",
+        "requiredCoins": 100,
+        "coefficient": 1,
+        "buttonText": "Дальше к истине"
+    },
+    {
+        "id": 2,
+        "image": "/levels/level_2.jpg",
+        "name": "Новичок",
+        "description": "Посейдон еще недавно был ребенком, а уже начинает свои тренировки. Он готов к новым вызовам!",
+        "requiredCoins": 250,
+        "coefficient": 1.05,
+        "buttonText": "Продолжить путь"
+    },
+    {
+        "id": 3,
+        "image": "/levels/level_3.jpg",
+        "name": "Практик",
+        "description": "Посейдон вырос, но ответы все еще далеки. Он отправляется в глубь моря, ты с ним?",
+        "requiredCoins": 500,
+        "coefficient": 1.07,
+        "buttonText": "Вперед к приключениям"
+    },
+    {
+        "id": 4,
+        "image": "/levels/level_4.jpg",
+        "name": "Знаток",
+        "description": "Посейдон узнает, что его родители - боги. Это открытие меняет все!",
+        "requiredCoins": 1000,
+        "coefficient": 1.2,
+        "buttonText": "Узнать больше"
+    },
+    {
+        "id": 5,
+        "image": "/levels/level_5.jpg",
+        "name": "Эксперт",
+        "description": "Посейдон начинает изучать стихию воды. Он готов к новым испытаниям!",
+        "requiredCoins": 2000,
+        "coefficient": 1.3,
+        "buttonText": "Погрузиться в обучение"
+    },
+    {
+        "id": 6,
+        "image": "/levels/level_6.jpg",
+        "name": "Мастер",
+        "description": "Посейдон получает магический трезубец и учится им пользоваться. Время показать свои навыки!",
+        "requiredCoins": 3500,
+        "coefficient": 1.7,
+        "buttonText": "Использовать силу"
+    },
+    {
+        "id": 7,
+        "image": "/levels/level_7.jpg",
+        "name": "Что же это..",
+        "description": "На вас с Посейдоном напало морское чудище. Вам нужно победить его, чтобы продолжить путь!",
+        "requiredCoins": 5000,
+        "coefficient": 1.75,
+        "buttonText": "Сразиться с чудовищем"
+    },
+    {
+        "id": 8,
+        "image": "/levels/level_8.jpg",
+        "name": "Легенда",
+        "description": "Вы смогли одолеть чудовище! Поздравляю! Но впереди еще много испытаний.",
+        "requiredCoins": 7500,
+        "coefficient": 1.9,
+        "buttonText": "Отпраздновать победу"
+    },
+    {
+        "id": 9,
+        "image": "/levels/level_9.jpg",
+        "name": "Провидец",
+        "description": "Кажется, это брат Посейдона - Зевс. Он открывает ему тайны их родословной.",
+        "requiredCoins": 10000,
+        "coefficient": 1.95,
+        "buttonText": "Узнать тайны"
+    },
+    {
+        "id": 10,
+        "image": "/levels/level_10.jpg",
+        "name": "Бессмертный",
+        "description": "Вы с Посейдоном достигли вершины мастерства. Он благодарен вам и приглашает в свое царство.",
+        "requiredCoins": 15000,
+        "coefficient": 2,
+        "buttonText": "Принять приглашение"
+    }
+]

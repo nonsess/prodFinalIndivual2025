@@ -1,0 +1,58 @@
+.historyContainer {
+    padding: 20px;
+    background-color: #f9f9f9;
+    min-height: 100vh;
+}
+
+.pageHeader {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.cardContainer {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+
+.card {
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    padding: 16px;
+}
+
+.infoRow {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 8px;
+}
+
+.label {
+    font-weight: bold;
+    color: #333;
+}
+
+.value {
+    color: #666;
+}
+
+.dateBlock {
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    padding: 16px;
+}
+
+.dateTitle {
+    font-size: 1rem;
+    margin-top: 0;
+    margin-bottom: 8px;
+    color: #1677ff;
+}
+
+.workoutList {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}

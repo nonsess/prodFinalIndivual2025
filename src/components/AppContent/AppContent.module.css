@@ -1,0 +1,26 @@
+.content {
+    padding: 88px 24px 24px;
+    min-height: 100vh;
+    margin-left: 200px;
+    background-color: #f5f5f5;
+}
+
+.content.introContent {
+    margin-left: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+.mobileBottomPadding {
+    display: none;
+    height: 60px;
+}
+
+@media (max-width: 768px) {
+    .content {
+        margin-left: 0;
+    }
+    .mobileBottomPadding {
+        display: block;
+    }
+} 

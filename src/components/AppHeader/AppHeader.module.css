@@ -1,0 +1,51 @@
+.headerStyle {
+    position: fixed;
+    padding: 0 24px 0 24px;
+    width: 100%;
+    z-index: 100;
+    color: white;
+    min-width: 335;
+    height: 64;
+    padding-inline: 48;
+    background-color: #1677ff;
+}
+
+.logoStyle {
+    height: 45px;
+    width: 45px;
+    margin-right: 8px;
+    vertical-align: middle;
+}
+
+.headerStyle {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px;
+    background-color: #1677ff;
+    color: white;
+}
+
+.headerContent {
+    display: flex;
+    align-items: center;
+    width: 100%;
+}
+
+.logoStyle {
+    margin-right: 10px;
+}
+
+.subtitle {
+    margin-left: 10px;
+    flex-grow: 1;
+}
+
+.coinDisplay {
+    font-size: 1rem;
+    font-weight: 400;
+    margin-left: auto;
+    padding: 5px 10px;
+    border-radius: 5px;
+    color: white;
+}
