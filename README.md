@@ -1,7 +1,5 @@
 # Про-фитнес: Gamified Workout Planner with Interactive Story 🏋️♂️✨
 
-![FitQuest Demo](https://via.placeholder.com/800x400.png?text=FitQuest+Demo) <!-- Replace with your demo/gif -->
-
 **Про-фитнес** is an interactive fitness tracker with gamification elements, where workouts unlock new chapters in your character's story. Developed for the finals of the "Prod" Olympiad.
 
 ## 🌟 Key Features
